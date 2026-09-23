@@ -16,4 +16,4 @@
 **Стек:** Python, Power BI, MySQL
 [→ Открыть кейс](2-diplom-project/README.md)
 
-![Превью](01-investments/screenshots/011.png)
+![Превью](2-diplom-project/screenshots/011.png)
