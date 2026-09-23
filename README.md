@@ -1,6 +1,6 @@
 # Data Analytics Dashboards
 
-Разработанные мной дашборды в Power BI и Google Looker Studio.
+Портфолио проектов по анализу данных
 
 ## 📊 Кейсы
 
