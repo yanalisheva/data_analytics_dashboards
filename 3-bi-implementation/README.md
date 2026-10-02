@@ -68,7 +68,7 @@
 
 [→ Открыть всю презентацию (PDF)](presentations/01-presentetion.pdf)
 
-(screenshots/004.png)
+![Титул](screenshots/004.png)
   
 ## Ключевые скриншоты реализованного дашборда
 
