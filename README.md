@@ -10,7 +10,7 @@
 видели итоги только к 15-му числу следующего месяца из-за ручной сборки данных - после внедрения 
 показатели стали обновляться автоматически и доступны в реальном времени.
 
-**Стек:** Power BI, Power Query, AmoCRM, iiko, Google Sheets
+**Стек:** Power BI, AmoCRM, iiko, Google Sheets
 
 [→ Открыть кейс](3-bi-implementation/README.md)
 
